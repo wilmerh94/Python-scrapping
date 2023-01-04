@@ -61,3 +61,11 @@ def get_driver():
     return driver
 
 ```
+
+#### Helpers
+
+Inside of the file helpers you will find a easy way few things:
+
+1. Cleaner to help you for a better output ( what you want to extract ) and this is with the help of Regex
+2. Write Files convert what you need to a file `.txt`
+3. Scrapping by ID has two ways to do it, you need to pass the value of the drivers and the value of what you need to find
